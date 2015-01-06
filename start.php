@@ -22,7 +22,7 @@ class start
          * Create additional header elements for this page
          */
         $page->set_header_element('<meta charset="utf-8">');
-        $page->set_header_element('<meta name="description" content="Code challenge provided by Luke for Learnerator interview" />');
+        $page->set_header_element('<meta name="description" content="Code challenge" />');
         $page->set_header_element('<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400" rel="stylesheet" type="text/css">');
 
         /*
